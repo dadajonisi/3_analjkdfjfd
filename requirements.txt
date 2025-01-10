@@ -1,0 +1,7 @@
+telegram
+speech_recognition
+pydub
+numpy
+sklearn
+librosa
+pickle
